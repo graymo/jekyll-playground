@@ -1,4 +1,6 @@
 ---
+title: Markdown
+layout: default
 ---
 
 # Hello
